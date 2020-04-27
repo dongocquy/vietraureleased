@@ -29,6 +29,7 @@ credentials.json
 credentials.json
 GitCommand.exe
 GitPushReleased.exe
+VietRauDownloader.exe
 *.pdb
 *.xml
 vi2/
