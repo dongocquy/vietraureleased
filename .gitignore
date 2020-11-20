@@ -1,7 +1,5 @@
 *.log
 System.*.dll
-VietRauERPUpdater.exe
-VietRau.Win.exe.config
 LogonParameters
 DocumentFormat.OpenXml.dll
 FileList.txt
